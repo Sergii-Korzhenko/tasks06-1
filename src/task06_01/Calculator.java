@@ -4,7 +4,8 @@ public class Calculator {
     public static void main(String[] args) {
 
     }
-    int plus(int a, int b){
-        return  a + b;
+
+    double multiply(double a, double b) {
+        return a + b;
     }
 }
